@@ -1,0 +1,9 @@
+C:\repos\Vehicle\TestVehicle\bin\Debug\TestVehicle.exe.config
+C:\repos\Vehicle\TestVehicle\bin\Debug\TestVehicle.exe
+C:\repos\Vehicle\TestVehicle\bin\Debug\TestVehicle.pdb
+C:\repos\Vehicle\TestVehicle\bin\Debug\Vehicle.dll
+C:\repos\Vehicle\TestVehicle\bin\Debug\Vehicle.pdb
+C:\repos\Vehicle\TestVehicle\obj\Debug\TestVehicle.csprojResolveAssemblyReference.cache
+C:\repos\Vehicle\TestVehicle\obj\Debug\TestVehicle.csproj.CoreCompileInputs.cache
+C:\repos\Vehicle\TestVehicle\obj\Debug\TestVehicle.exe
+C:\repos\Vehicle\TestVehicle\obj\Debug\TestVehicle.pdb

@@ -1,0 +1,6 @@
+C:\repos\Vehicle\Vehicle\bin\Debug\Vehicle.dll
+C:\repos\Vehicle\Vehicle\bin\Debug\Vehicle.pdb
+C:\repos\Vehicle\Vehicle\obj\Debug\VehicleLibrary.csprojResolveAssemblyReference.cache
+C:\repos\Vehicle\Vehicle\obj\Debug\VehicleLibrary.csproj.CoreCompileInputs.cache
+C:\repos\Vehicle\Vehicle\obj\Debug\Vehicle.dll
+C:\repos\Vehicle\Vehicle\obj\Debug\Vehicle.pdb
